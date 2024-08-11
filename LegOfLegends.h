@@ -14,8 +14,8 @@ public:
 		this->restY = Y;
 		this->restZ = Z;
 	}
-	tuple<double, double, double> calculate(sint X, sint Y, sint Z) {
-		Y += restY;
+	tuple<double, double, double> calculateAngle(sint X, sint Y, sint Z) {
+		Y += restY;;
 		Z += restZ;
 		double J1 = atan(X / Y) * (180 / PI);
 		double H = sqrt((Y * Y) + (X * X));
