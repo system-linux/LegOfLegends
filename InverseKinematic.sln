@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InverseKinematic", "InverseKinematic.vcxproj", "{9C73747B-8959-41AF-B807-334F111A637C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C73747B-8959-41AF-B807-334F111A637C}.Debug|x64.ActiveCfg = Debug|x64
+		{9C73747B-8959-41AF-B807-334F111A637C}.Debug|x64.Build.0 = Debug|x64
+		{9C73747B-8959-41AF-B807-334F111A637C}.Debug|x86.ActiveCfg = Debug|Win32
+		{9C73747B-8959-41AF-B807-334F111A637C}.Debug|x86.Build.0 = Debug|Win32
+		{9C73747B-8959-41AF-B807-334F111A637C}.Release|x64.ActiveCfg = Release|x64
+		{9C73747B-8959-41AF-B807-334F111A637C}.Release|x64.Build.0 = Release|x64
+		{9C73747B-8959-41AF-B807-334F111A637C}.Release|x86.ActiveCfg = Release|Win32
+		{9C73747B-8959-41AF-B807-334F111A637C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4636EF2-8A28-4523-8B5C-3D2C3F5E99F9}
+	EndGlobalSection
+EndGlobal
